@@ -4,7 +4,7 @@ This is an Unreal Engine End Time Simulator based on the Science of Johannes Kep
 
 This simulator will only alter the direction of gravity when the North Magnetic Pole gets to the Equator in 2061 on the day Sir Issac Newton calculated it according to the Torah written in the third century, the version of Torah the Church has admitted it removed all Pagan Beliefs. This is only based on facts, and theory is not allowed in this project, there must be proof that these events will play out according to the Torah, or any Bible based on it.
 
-Einstein removed the Constant for Light in his theory E = MC^2 by removing God who is all Light without Darkness, Newton said E = MA^2, derived from F = MA. 
+Einstein removed the Constant for Light in his theory E = MC<sub>2</sub> by removing God who is all Light without Darkness, Newton said E = MA<sub>2</sub>, derived from F = MA. 
 
 The Logic for the Simulator is based on a list of facts.
 
@@ -12,7 +12,7 @@ The Logic for the Simulator is based on a list of facts.
 2. Atoms are made of Light without Darkness inside a shell of Neutrinos, split one for proof. [Trinary Science](https://github.com/Light-Wizzard/The-Principles-Of-The-Trinary-Universe/blob/master/misc/the.principles.of.the.trinary.universe.pdf).
 3. Light has no acceleration, therefore it is Static, so you cannot use Einstein's theories which made it Dynamic, and he removed God or Atoms. Tesla.
 4. God is the Force of Gravity in all of Newton's Math, as proof F = MA, where F is the Force of Gravity, and M is the Mass of Atoms that are made of Neutrinos with the Light of God inside them, times the Acceleration of the M, which is made of Neutrions, such that the Speed of Light, is the speed of the Dynamic Universe because Light is Static.
-5. The Sun is made of Atoms called Mass. The Mass has a Gravitational Constant of 6.66 x 10^−11 N x m^2 / kg^2. Newton.
+5. The Sun is made of Atoms called Mass. The Mass has a Gravitational Constant of 6.66 x 10<sub>−11</sub> N x m<sub>2</sub> / kg<sub>2</sub>. Newton.
 6. Our Planet Earth orbits around the Sun at an average rate of 66,666.666 miles per hour based on the Gravitational Constant of 6.66.
 7. The End of Time began in 2012 when our North Magnetic Pole started to head south to the Equator.
 8. Newton was born on 25 December 1642 under the Julian Calendar only the Military uses, the Gregorian Calendar changed that to 4 January 1643 then they removed 10 days making it the 14 January, my birthday, I am medically retired from the U.S. Air Force, and why I know this.
