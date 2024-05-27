@@ -83,3 +83,5 @@ Religion does not teach the End of Time that Sir Isaac Newton calculated; they i
 The concept of the AM-Tower Game/Simulation is to teach people the End of Time according to the Torah or Bible, Kepler, Newton, and Tesla, and then allow them to make up their minds about what they believe, and the settings allow them to make these choices. 
 
 Regardless of what anyone believes, Kepler, Newton, and Tesla believe God is the Force of Gravity in all their equations, and no one can change that fact, nor the fact that God is all Light without Darkness found inside of all the atoms in the Universe. 
+
+AM-Tower is about the End of Time that Kepler, Newton, and Tesla wrote about, and I try to keep the list of things to know to only a few, the others are just there to give you more information. 
